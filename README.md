@@ -7,11 +7,12 @@ computing or calculating time.
 
 Requirements 
 
-Easy to set up
-secure
-able to add machine (nodes) to network 
+Easy to set up,
+secure,
+able to add machine (nodes) to network ,
 blah
 blah 
 etc.
+
 
 (to be edited on a later date!! :)
